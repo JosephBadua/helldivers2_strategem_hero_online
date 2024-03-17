@@ -124,7 +124,7 @@ function generate_list(){
         orbital_ems: {
             name: 'ORBITAL EMS STRIKE',
             input: ['39', '39', '37', '40'],
-            img: "Bridge/HMG Emplacement.svg"
+            img: "Bridge/Orbital EMS Strike.svg"
         },
         orbital_gas: {
             name: 'ORBITAL GAS STRIKE',
