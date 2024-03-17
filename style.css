@@ -1,0 +1,135 @@
+.wrapper, html, body {
+    height: 100%;
+    margin: 0;
+    background: #4a474c;
+    font-family: winnersans-condregular;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+}
+#row1 {
+    flex:1;
+    display: flex;
+    
+}
+#row2 {
+    flex:10;
+    display: flex;
+    flex-direction: column;
+    background-image: url('super_earth_logo_opaque.png');
+    background-position-y: center;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-size: 30%;
+}
+#row3 {
+    flex:1;
+    display: flex;
+}
+#row2-1 {
+    flex:3;
+    display: flex;
+    align-items: center;
+}
+.hide {
+    display: none !important;
+}
+#row2-2 {
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#row-2-2-2{
+    flex-basis:100%
+}
+#row2-3 {
+    flex:3;
+    display: flex;
+    align-items: center;
+}
+#row2-4 {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#row2-5 {
+    flex:1;
+    display: flex;
+    align-items: center;
+}
+
+#play-text {
+    margin: auto;
+    font-size: 2em;
+    display: flex;
+    align-items: center;
+    color: #fcfafc;
+    text-shadow: 1px 1px 2px black;
+    padding: 10px;
+    border: 2px dashed white;
+}
+
+.carousel-strategem {
+    border: 2px solid white;
+    margin: 20px;
+}
+
+.focus-image {
+    transform: scale(1.1);
+    box-shadow: -1px 1px 1px 3px #fdfb93;
+}
+
+.sub-image {
+    transform: scale(0.8);
+}
+#arrow_keys {
+    transform: scale(1.2);
+}
+#strategem-name {
+    width: 100%;
+    text-align: center;
+    background: #fffb95;
+    color: black;
+    font-size: 3em;
+    padding: 10px;
+}
+
+h1{
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    color: #fcfafc;
+    font-size: 5em;
+    text-shadow: 1px 1px 2px black;
+}
+
+h2{
+    width: 100%;
+    text-align: center;
+    font-weight: bold;
+    color: #ffff98;
+    font-size: 3em;
+    text-shadow: 1px 1px 2px black;
+}
+
+hr {
+    flex-grow: 1;
+}
+#hr-top {
+    border: none;
+    border-bottom: 3px solid white;
+}
+#hr-bottom {
+    border: none;
+    border-top: 3px solid white;
+}
+/* success - #fbfa8b */
+/* fail - #fa714e */
