@@ -306,13 +306,13 @@ function generate_inputs(strategem_input){
             dynamicImage.style.filter = "brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-rotate(20deg) brightness(103%) contrast(101%)";
             dynamicImage.setAttribute('data-count', x);
             if(strategem_input[x] == 37){
-                dynamicImage.src = "/left-arrow-button-icon.svg";
+                dynamicImage.src = "./left-arrow-button-icon.svg";
             } else if(strategem_input[x]  == 38){
-                dynamicImage.src = "/up-arrow-button-icon.svg";
+                dynamicImage.src = "./up-arrow-button-icon.svg";
             } else if(strategem_input[x]  == 39){
-                dynamicImage.src = "/right-arrow-button-icon.svg";
+                dynamicImage.src = "right-arrow-button-icon.svg";
             } else if(strategem_input[x]  == 40){
-                dynamicImage.src = "/down-arrow-button-icon.svg";
+                dynamicImage.src = "down-arrow-button-icon.svg";
             } 
             //populate input
             let input_section = document.getElementById('input-section');
