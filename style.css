@@ -131,5 +131,7 @@ hr {
     border: none;
     border-top: 3px solid white;
 }
-/* success - #fbfa8b */
+/* success - #fbfa8b 
+filter: brightness(0) saturate(100%) invert(94%) sepia(93%) saturate(631%) hue-rotate(325deg) brightness(115%) contrast(97%);
+*/
 /* fail - #fa714e */
