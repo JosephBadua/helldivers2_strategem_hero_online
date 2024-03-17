@@ -30,6 +30,18 @@
     flex:1;
     display: flex;
 }
+#row4 {
+    flex:1;
+    color: white;
+    text-align: center;
+}
+p {
+    font-size: 1em;
+}
+
+a {
+   color: #fdfb93; 
+}
 #row2-1 {
     flex:3;
     display: flex;
@@ -54,16 +66,36 @@
     align-items: center;
 }
 #row2-4 {
+    flex:3;
+    display: flex;
+    align-items: center;
+}
+#row2-5 {
     flex: 1;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 }
-#row2-5 {
+#row2-6 {
     flex:1;
     display: flex;
     align-items: center;
+}
+
+#myProgress {
+    width: 60%;
+    background-color: transparent;
+    margin: auto;
+}
+  
+#myBar {
+    width: 100%;
+    height: 30px;
+    background-color: #4CAF50;
+    text-align: center;
+    line-height: 30px;
+    color: white;
 }
 
 #play-text {
@@ -75,6 +107,10 @@
     text-shadow: 1px 1px 2px black;
     padding: 10px;
     border: 2px dashed white;
+}
+
+#game-over-text {
+    font-size: 6em;
 }
 
 .carousel-strategem {
