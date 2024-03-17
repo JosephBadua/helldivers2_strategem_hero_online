@@ -87,6 +87,10 @@
     box-shadow: -1px 1px 1px 3px #fdfb93;
 }
 
+#score-text {
+    transition: 1.5s;
+}
+
 .sub-image {
     transform: scale(0.8);
 }
@@ -131,6 +135,17 @@ hr {
     border: none;
     border-top: 3px solid white;
 }
+
+.blinking {	
+    animation: changing 1.0s;	
+  }  	
+
+@keyframes changing {
+    0%   {color: #fbfa8b;}
+    50%  {color: white;}
+    100% {color: #fbfa8b;}
+  }
+
 /* success - #fbfa8b 
 filter: brightness(0) saturate(100%) invert(94%) sepia(93%) saturate(631%) hue-rotate(325deg) brightness(115%) contrast(97%);
 */

@@ -151,7 +151,18 @@ function play_game(keycode){
 }
 
 function check_end(strategem_input){
+
+    
     console.log(strategem_input)
+
+    //update score
+    score = score + 20;
+    var score_text = document.getElementById('score-text');
+    score_text.innerHTML = 'SCORE: ' + score;
+    score_text.classList.add("blinking");
+    score_text.addEventListener("animationend",  function() {
+        score_text.classList.remove("blinking");  	
+    });	
 
     //select all images, remove first one, adjust next image to be focus
     var images = document.querySelectorAll('.carousel-strategem');
