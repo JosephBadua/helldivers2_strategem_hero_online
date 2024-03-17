@@ -19,6 +19,8 @@ The game will end will the timer reaches 0. Every completion of a strategem will
 Thanks to reddit user Trexana_ for posting a google drive of SVG icons of the strategems:
 
 https://www.reddit.com/user/Trexana_/
+<br>
+<br>
 https://drive.google.com/drive/folders/1j-p3rOPDvRriWxKKYxddtx9SBiPnh0SA
 
 # Disclaimers
