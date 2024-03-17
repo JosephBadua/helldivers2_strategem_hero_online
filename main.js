@@ -13,263 +13,263 @@ function generate_list(){
         hellbomb: {
             name: 'HELLBOMB',
             input: ['40', '38', '37', '40', '38', '39', '40', '38'],
-            img: "/General Stratagems/Hellbomb.svg"
+            img: "General Stratagems/Hellbomb.svg"
         },
         flare: {
             name: 'ORBITAL ILLUMINATION FLARE',
             input: ['39', '39', '37', '37'],
-            img: "/General Stratagems/Orbital Illumination Flare.svg"
+            img: "General Stratagems/Orbital Illumination Flare.svg"
         },
         sos: {
             name: 'SOS BEACON',
             input: ['38', '40', '39', '38'],
-            img: "/General Stratagems/SOS Beacon.svg"
+            img: "General Stratagems/SOS Beacon.svg"
         }, 
         reinforce: {
             name: 'REINFORCE',
             input: ['38', '40', '39', '37', '38'],
-            img: "/General Stratagems/Reinforce.svg"
+            img: "General Stratagems/Reinforce.svg"
         },
         resupply: {
             name: 'RESUPPLY',
             input: ['40', '40', '38', '39'],
-            img: "/General Stratagems/Resupply.svg"
+            img: "General Stratagems/Resupply.svg"
       
         },
         autocannon_sentry: {
             name: 'AUTOCANNON SENTRY',
             input: ['40', '38', '39', '38', '37', '38'],
-            img: "/Robotics Workshop/Autocannon Sentry.svg"
+            img: "Robotics Workshop/Autocannon Sentry.svg"
         },
         ems_mortar_sentry: {
             name: 'EMS MORTAR SENTRY',
             input: ['40', '38', '39', '40', '39'],
-            img: "/Robotics Workshop/EMS Mortar Sentry.svg"
+            img: "Robotics Workshop/EMS Mortar Sentry.svg"
         },
         gatling_sentry: {
             name: 'GATLING SENTRY',
             input: ['40', '38', '39', '37'],
-            img: "/Robotics Workshop/Gatling Sentry.svg"
+            img: "Robotics Workshop/Gatling Sentry.svg"
         },
         guard_dog: {
             name: 'GUARD DOG',
             input: ['40', '38', '37', '38', '39', '40'],
-            img: "/Robotics Workshop//Guard Dog.svg"
+            img: "Robotics Workshop//Guard Dog.svg"
         },
         machine_gun_sentry: {
             name: 'MACHINE GUN SENTRY',
             input: ['40', '38', '39', '39', '38'],
-            img: "/Robotics Workshop/Machine Gun Sentry.svg"
+            img: "Robotics Workshop/Machine Gun Sentry.svg"
         },
         patriot_exosuit: {
             name: 'PATRIOT EXOSUIT',
             input: ['37', '40', '39', '38', '37', '40', '40'],
-            img: "/Robotics Workshop/Patriot Exosuit.svg"
+            img: "Robotics Workshop/Patriot Exosuit.svg"
         },
         rocket_sentry: {
             name: 'ROCKET SENTRY',
             input: ['40', '38', '39', '39', '37'],
-            img: "/Robotics Workshop/Rocket Sentry.svg"
+            img: "Robotics Workshop/Rocket Sentry.svg"
         },
         anti_personnel_minefield: {
             name: 'ANTI-PERSONNEL MINEFIELD',
             input: ['40', '37', '40', '38', '39'],
-            img: "/Engineering Bay/Anti-Personnel Minefield.svg"
+            img: "Engineering Bay/Anti-Personnel Minefield.svg"
         },
         arc_thrower: {
             name: 'ARC THROWER',
             input: ['40', '39', '40', '38', '37', '37'],
-            img: "/Engineering Bay/Arc Thrower.svg"
+            img: "Engineering Bay/Arc Thrower.svg"
         },
         ballistic_shield: {
             name: 'BALLISTIC SHIELD BACKPACK',
             input: ['40', '37', '40', '40', '38', '37'],
-            img: "/Engineering Bay/Ballistic Shield Backpack.svg"
+            img: "Engineering Bay/Ballistic Shield Backpack.svg"
         },
         grenade_launcher: {
             name: 'GRENADE LAUNCHER',
             input: ['40', '37', '38', '37', '40'],
-            img: "/Engineering Bay/Grenade Launcher.svg"
+            img: "Engineering Bay/Grenade Launcher.svg"
         },
         gaurd_dog_rover: {
             name: 'GUARD DOG ROVER',
             input: ['40', '38', '37', '38', '39', '39'],
-            img: "/Engineering Bay/Guard Dog Rover.svg"
+            img: "Engineering Bay/Guard Dog Rover.svg"
         },
         incendiary_mines: {
             name: 'INCENDIARY MINES',
             input: ['40', '37', '37', '40'],
-            img: "/Engineering Bay/Incendiary Mines.svg"
+            img: "Engineering Bay/Incendiary Mines.svg"
         },
         laser_cannon: {
             name: 'LASER CANNON',
             input: ['40', '37', '40', '38', '37'],
-            img: "/Engineering Bay/Laser Cannon.svg"
+            img: "Engineering Bay/Laser Cannon.svg"
         },
         shield_backpack: {
             name: 'SHIELD GENERATOR PACK',
             input: ['40', '38', '37', '39', '37', '39'],
-            img: "/Engineering Bay/Shield Generator Pack.svg"
+            img: "Engineering Bay/Shield Generator Pack.svg"
         },
         supply_pack: {
             name: 'SUPPLY PACK',
             input: ['40', '37', '40', '38', '38', '40'],
-            img: "/Engineering Bay/Supply Pack.svg"
+            img: "Engineering Bay/Supply Pack.svg"
         },
         hmg: {
             name: 'HMG EMPLACEMENT',
             input: ['40', '38', '37', '39', '39', '37'],
-            img: "/Bridge/HMG Emplacement.svg"
+            img: "Bridge/HMG Emplacement.svg"
         },
         orbital_ems: {
             name: 'ORBITAL EMS STRIKE',
             input: ['39', '39', '37', '40'],
-            img: "/Bridge/HMG Emplacement.svg"
+            img: "Bridge/HMG Emplacement.svg"
         },
         orbital_gas: {
             name: 'ORBITAL GAS STRIKE',
             input: ['39', '39', '40', '39'],
-            img: "/Bridge/Orbital Gas Strike.svg"
+            img: "Bridge/Orbital Gas Strike.svg"
         },
         orbital_precision: {
             name: 'ORBITAL PRECISION STRIKE',
             input: ['39', '39', '38'],
-            img: "/Bridge/Orbital Precision Strike.svg"
+            img: "Bridge/Orbital Precision Strike.svg"
         },
         orbital_smoke: {
             name: 'ORBITAL SMOKE STRIKE',
             input: ['39', '39', '40', '38'],
-            img: "/Bridge/Orbital Smoke Strike.svg"
+            img: "Bridge/Orbital Smoke Strike.svg"
         },
         shield_relay: {
             name: 'SHIELD GENERATOR RELAY',
             input: ['40', '40', '37', '39', '37', '39'],
-            img: "/Bridge/Shield Generator Relay.svg"
+            img: "Bridge/Shield Generator Relay.svg"
         },
         tesla_tower: {
             name: 'TESLA TOWER',
             input: ['40', '38', '39', '38', '37', '39'],
-            img: "/Bridge/Tesla Tower.svg"
+            img: "Bridge/Tesla Tower.svg"
         },
         eagle_110mm: {
             name: 'EAGLE 110MM ROCKET PODS',
             input: ['38', '39', '38', '37'],
-            img: "/Hanger/Eagle 110MM Rocket Pods.svg"
+            img: "Hanger/Eagle 110MM Rocket Pods.svg"
         },
         eagle_500kg: {
             name: 'EAGLE 500KG BOMB',
             input: ['38', '39', '40', '40', '40'],
-            img: "/Hanger/Eagle 500KG Bomb.svg"
+            img: "Hanger/Eagle 500KG Bomb.svg"
         },
         eagle_airstrike: {
             name: 'EAGLE AIRSTRIKE',
             input: ['38', '39', '40', '39'],
-            img: "/Hanger/Eagle Airstrike.svg"
+            img: "Hanger/Eagle Airstrike.svg"
         },
         eagle_cluster: {
             name: 'EAGLE CLUSTER BOMB',
             input: ['38', '39', '40', '40', '39'],
-            img: "/Hanger/Eagle Cluster Bomb.svg"
+            img: "Hanger/Eagle Cluster Bomb.svg"
         },
         eagle_napalm: {
             name: 'EAGLE NAPALM AIRSTRIKE',
             input: ['38', '39', '40', '38'],
-            img: "/Hanger/Eagle Napalm Airstrike.svg"
+            img: "Hanger/Eagle Napalm Airstrike.svg"
         },
         eagle_rearm: {
             name: 'EAGLE REARM',
             input: ['38', '38', '37', '38', '39'],
-            img: "/Hanger/Eagle Rearm.svg"
+            img: "Hanger/Eagle Rearm.svg"
         },
         eagle_smoke: {
             name: 'EAGLE SMOKE STRIKE',
             input: ['38', '39', '38', '40'],
-            img: "/Hanger/Eagle Smoke Strike.svg"
+            img: "Hanger/Eagle Smoke Strike.svg"
         },
         eagle_strafing: {
             name: 'EAGLE STRAFING RUN',
             input: ['38', '39', '39'],
-            img: "/Hanger/Eagle Strafing Run.svg"
+            img: "Hanger/Eagle Strafing Run.svg"
         },
         jump_pack: {
             name: 'JUMP PACK',
             input: ['40', '38', '38', '40', '38'],
-            img: "/Hanger/Jump Pack.svg"
+            img: "Hanger/Jump Pack.svg"
         },
         anti_material: {
             name: 'ANTI-MATERIAL RIFLE',
             input: ['40', '37', '39', '38', '40'],
-            img: "/Patriotic Administration Center/Anti-Materiel Rifle.svg"
+            img: "Patriotic Administration Center/Anti-Materiel Rifle.svg"
         },
         autocannon: {
             name: 'AUTOCANNON',
             input: ['40', '37', '40', '38', '38', '39'],
-            img: "/Patriotic Administration Center/Autocannon.svg"
+            img: "Patriotic Administration Center/Autocannon.svg"
         },
         eat: {
             name: 'EXPENDABLE ANTI-TANK',
             input: ['40', '40', '37', '39', '38'],
-            img: "/Patriotic Administration Center/Expendable Anti-Tank.svg"
+            img: "Patriotic Administration Center/Expendable Anti-Tank.svg"
         },
         flamethrower: {
             name: 'FLAMETHROWER',
             input: ['40', '37', '38', '40', '38'],
-            img: "/Patriotic Administration Center/Flamethrower.svg"
+            img: "Patriotic Administration Center/Flamethrower.svg"
         },
         railgun: {
             name: 'RAILGUN',
             input: ['40', '39', '40', '38', '37', '39'],
-            img: "/Patriotic Administration Center/Railgun.svg"
+            img: "Patriotic Administration Center/Railgun.svg"
         },
         recoilless: {
             name: 'RECOILLESS RIFLE',
             input: ['40', '37', '39', '39', '37'],
-            img: "/Patriotic Administration Center/Recoilless Rifle.svg"
+            img: "Patriotic Administration Center/Recoilless Rifle.svg"
         },
         spear: {
             name: 'SPEAR',
             input: ['40', '40', '38', '40', '40'],
-            img: "/Patriotic Administration Center/Spear.svg"
+            img: "Patriotic Administration Center/Spear.svg"
         },
         stalwart: {
             name: 'STALWART',
             input: ['40', '37', '40', '38', '38', '37'],
-            img: "/Patriotic Administration Center/Stalwart.svg"
+            img: "Patriotic Administration Center/Stalwart.svg"
         },
         orbital_120mm: {
             name: 'ORBITAL 120MM HE BARRAGE',
             input: ['39', '39', '40', '37', '39', '40'],
-            img: "/Orbital Cannons/Orbital 120MM HE Barrage.svg"
+            img: "Orbital Cannons/Orbital 120MM HE Barrage.svg"
         },
         orbital_380mm: {
             name: 'ORBITAL 380MM HE BARRAGE',
             input: ['39', '40', '38', '38', '37', '40', '40'],
-            img: "/Orbital Cannons/Orbital 380MM HE Barrage.svg"
+            img: "Orbital Cannons/Orbital 380MM HE Barrage.svg"
         },
         orbital_airburst: {
             name: 'ORBITAL AIRBURST STRIKE',
             input: ['39', '39', '39'],
-            img: "/Orbital Cannons/Orbital Airburst Strike.svg"
+            img: "Orbital Cannons/Orbital Airburst Strike.svg"
         },
         orbital_gatling: {
             name: 'ORBITAL GATLING BARRAGE',
             input: ['39', '40', '37', '38', '38'],
-            img: "/Orbital Cannons/Orbital Gatling Barrage.svg"
+            img: "Orbital Cannons/Orbital Gatling Barrage.svg"
         },
         orbital_laser: {
             name: 'ORBITAL LASER',
             input: ['39', '40', '38', '39', '40'],
-            img: "/Orbital Cannons/Orbital Laser.svg"
+            img: "Orbital Cannons/Orbital Laser.svg"
         },
         orbital_railgun: {
             name: 'ORBITAL RAILCANNON STRIKE',
             input: ['39', '38', '40', '40', '39'],
-            img: "/Orbital Cannons/Orbital Railcannon Strike.svg"
+            img: "Orbital Cannons/Orbital Railcannon Strike.svg"
         },
         orbital_walking: {
             name: 'ORBITAL WALKING BARRAGE',
             input: ['39', '40', '39', '40', '39', '40'],
-            img: "/Orbital Cannons/Orbital Walking Barrage.svg"
+            img: "Orbital Cannons/Orbital Walking Barrage.svg"
         }
 
         
@@ -306,9 +306,9 @@ function generate_inputs(strategem_input){
             dynamicImage.style.filter = "brightness(0) saturate(100%) invert(100%) sepia(100%) saturate(0%) hue-rotate(20deg) brightness(103%) contrast(101%)";
             dynamicImage.setAttribute('data-count', x);
             if(strategem_input[x] == 37){
-                dynamicImage.src = "./left-arrow-button-icon.svg";
+                dynamicImage.src = "left-arrow-button-icon.svg";
             } else if(strategem_input[x]  == 38){
-                dynamicImage.src = "./up-arrow-button-icon.svg";
+                dynamicImage.src = "up-arrow-button-icon.svg";
             } else if(strategem_input[x]  == 39){
                 dynamicImage.src = "right-arrow-button-icon.svg";
             } else if(strategem_input[x]  == 40){
